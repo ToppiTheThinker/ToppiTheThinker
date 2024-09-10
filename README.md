@@ -1,4 +1,5 @@
-## Hi there my name is Chris :P. I am a junior at University of Illinois Chicago majoring in computer science. 👋
+## Hi there my name is Chris👋
+## 🔭 I’m currently working on a website that teaches algorithms
 
 <!--
 **ToppiTheThinker/ToppiTheThinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
