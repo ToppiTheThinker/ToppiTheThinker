@@ -1,5 +1,6 @@
-## Hi there my name is Chris👋
+## Hi there, my name is Chris👋
 ## 🔭 I’m currently working on a website that teaches algorithms
+## 🌱 I’m currently learning Javascript, ReactJS, and SQL
 
 <!--
 **ToppiTheThinker/ToppiTheThinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
